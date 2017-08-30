@@ -1,0 +1,11 @@
+\beamer@sectionintoc {1}{Project Time Management}{1}{0}{1}
+\beamer@sectionintoc {2}{Project Scheduling Basics}{2}{0}{2}
+\beamer@sectionintoc {3}{Activity on Arrow}{29}{0}{3}
+\beamer@sectionintoc {4}{Activity on Node}{92}{0}{4}
+\beamer@sectionintoc {5}{PERT}{210}{0}{5}
+\beamer@subsectionintoc {5}{1}{Example}{221}{0}{5}
+\beamer@subsectionintoc {5}{2}{Z Table: Cumulative probability for the Standard Normal Distribution: Positive Values of Z}{236}{0}{5}
+\beamer@sectionintoc {6}{Activity on Arrow}{236}{0}{6}
+\beamer@sectionintoc {7}{Line of Balance}{237}{0}{7}
+\beamer@sectionintoc {8}{Time Chainage}{294}{0}{8}
+\beamer@sectionintoc {9}{PMBOK Processes}{313}{0}{9}

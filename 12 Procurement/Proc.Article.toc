@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Project Procurement Management}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introduction}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Conduct Procurements}{7}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Administer Procurements}{12}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Close Procurements}{16}{subsection.1.4}
