@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.7)  30 AUG 2017 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.7)  30 AUG 2017 21:42
 entering extended mode
 **./Intro.Article.tex
 (Intro.Article.tex
@@ -927,17 +927,13 @@ Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
-))) (Intro.Article.aux
-
-LaTeX Warning: Label `fig:1-2old' multiply defined.
-
-)
+))) (Intro.Article.aux)
 \openout1 = `Intro.Article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/pxmi/m/it on input line 15.
 LaTeX Font Info:    Try loading font information for OML+pxmi on input line 15.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\omlpxmi.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\omlpxmi.fd"
 File: omlpxmi.fd 2000/12/14 v1.0
 )
 LaTeX Font Info:    ... okay on input line 15.
@@ -1093,294 +1089,289 @@ Package pdftex.def Info: images/Fig1-2old.jpg used on input line 136.
 <images/context.jpg, id=85, 668.7384pt x 403.7484pt>
 File: images/context.jpg Graphic file (type jpg)
  <use images/context.jpg>
-Package pdftex.def Info: images/context.jpg used on input line 276.
+Package pdftex.def Info: images/context.jpg used on input line 271.
 (pdftex.def)             Requested size: 199.16928pt x 120.24446pt.
 
 [6] [7 <./images/context.jpg>]
 <images/Fig2-8.jpg, id=119, 425.6703pt x 273.9033pt>
 File: images/Fig2-8.jpg Graphic file (type jpg)
  <use images/Fig2-8.jpg>
-Package pdftex.def Info: images/Fig2-8.jpg used on input line 345.
+Package pdftex.def Info: images/Fig2-8.jpg used on input line 340.
 (pdftex.def)             Requested size: 227.62204pt x 146.46785pt.
 
 <images/Fig2-9.jpg, id=120, 424.9476pt x 250.7769pt>
 File: images/Fig2-9.jpg Graphic file (type jpg)
  <use images/Fig2-9.jpg>
-Package pdftex.def Info: images/Fig2-9.jpg used on input line 357.
+Package pdftex.def Info: images/Fig2-9.jpg used on input line 352.
 (pdftex.def)             Requested size: 227.62204pt x 134.33076pt.
 
 <images/Fig2-8edit.jpg, id=121, 425.6703pt x 273.9033pt>
 File: images/Fig2-8edit.jpg Graphic file (type jpg)
 
 <use images/Fig2-8edit.jpg>
-Package pdftex.def Info: images/Fig2-8edit.jpg used on input line 369.
+Package pdftex.def Info: images/Fig2-8edit.jpg used on input line 364.
 (pdftex.def)             Requested size: 227.62204pt x 146.46785pt.
  [8 <./images/Fig2-8.jpg>] [9 <./images/Fig2-9.jpg> <./images/Fig2-8edit.jpg>] 
 [10] [11]
-LaTeX Font Info:    Try loading font information for U+pxsya on input line 526.
+LaTeX Font Info:    Try loading font information for U+pxsya on input line 521.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxsya.fd"
 File: upxsya.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyb on input line 526.
+LaTeX Font Info:    Try loading font information for U+pxsyb on input line 521.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxsyb.fd"
 File: utxsyb.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 526.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 521.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\wasysym\uwasy.fd"
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 526.
+LaTeX Font Info:    Try loading font information for U+pxmia on input line 521.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxmia.fd"
 File: upxmia.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 526.
+LaTeX Font Info:    Try loading font information for U+pxsyc on input line 521.
 
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\pxfonts\upxsyc.fd"
 File: upxsyc.fd 2000/12/14 v1.0
 ) [12] [13] [14]
-[15] [16] <images/Fig2-7.jpg, id=215, 423.86356pt x 272.09656pt>
+[15] [16] <images/Fig2-7.jpg, id=214, 423.86356pt x 272.09656pt>
 File: images/Fig2-7.jpg Graphic file (type jpg)
 
 <use images/Fig2-7.jpg>
-Package pdftex.def Info: images/Fig2-7.jpg used on input line 802.
+Package pdftex.def Info: images/Fig2-7.jpg used on input line 772.
 (pdftex.def)             Requested size: 284.52756pt x 182.65665pt.
- <images/tbl2-1.jpg, id=216, 436.87215pt x 247.52475pt>
-File: images/tbl2-1.jpg Graphic file (type jpg)
-
-<use images/tbl2-1.jpg>
-Package pdftex.def Info: images/tbl2-1.jpg used on input line 820.
-(pdftex.def)             Requested size: 227.62204pt x 128.97043pt.
- [17] [18 <./images/Fig2-7.jpg> <./images/tbl2-1.jpg>]
-Overfull \hbox (4.0958pt too wide) in paragraph at lines 874--875
+ [17 <./images/Fig2-7.jpg>]
+Overfull \hbox (4.0958pt too wide) in paragraph at lines 833--834
 []\OT1/pxr/m/n/10 Organisations that de-rive their rev-enue pri-mar-ily from pe
 r-form-ing projects
  []
 
-[19]
+[18] <images/tbl2-1.jpg, id=233, 436.87215pt x 247.52475pt>
 File: images/tbl2-1.jpg Graphic file (type jpg)
- <use images/tbl2-1.jpg>
-Package pdftex.def Info: images/tbl2-1.jpg used on input line 907.
+
+<use images/tbl2-1.jpg>
+Package pdftex.def Info: images/tbl2-1.jpg used on input line 866.
 (pdftex.def)             Requested size: 284.52756pt x 161.21776pt.
-
-<images/Fig2-1.jpg, id=244, 433.98135pt x 256.19714pt>
+ <images/Fig2-1.jpg, id=234, 433.98135pt x 256.19714pt>
 File: images/Fig2-1.jpg Graphic file (type jpg)
- <use images/Fig2-1.jpg>
-Package pdftex.def Info: images/Fig2-1.jpg used on input line 919.
+
+<use images/Fig2-1.jpg>
+Package pdftex.def Info: images/Fig2-1.jpg used on input line 878.
 (pdftex.def)             Requested size: 199.16928pt x 117.57846pt.
-
-<images/Fig2-5.jpg, id=245, 423.86356pt x 261.97874pt>
+ <images/Fig2-5.jpg, id=235, 423.86356pt x 261.97874pt>
 File: images/Fig2-5.jpg Graphic file (type jpg)
- <use images/Fig2-5.jpg>
-Package pdftex.def Info: images/Fig2-5.jpg used on input line 934.
+
+<use images/Fig2-5.jpg>
+Package pdftex.def Info: images/Fig2-5.jpg used on input line 893.
 (pdftex.def)             Requested size: 199.16928pt x 123.10204pt.
-
-<images/Fig2-2.jpg, id=246, 427.47705pt x 263.42415pt>
+ <images/Fig2-2.jpg, id=236, 427.47705pt x 263.42415pt>
 File: images/Fig2-2.jpg Graphic file (type jpg)
- <use images/Fig2-2.jpg>
-Package pdftex.def Info: images/Fig2-2.jpg used on input line 947.
-(pdftex.def)             Requested size: 199.16928pt x 122.73213pt.
 
-[20] [21 <./images/Fig2-1.jpg> <./images/Fig2-5.jpg> <./images/Fig2-2.jpg>]
-<images/Fig2-3.jpg, id=263, 433.98135pt x 269.20575pt>
+<use images/Fig2-2.jpg>
+Package pdftex.def Info: images/Fig2-2.jpg used on input line 906.
+(pdftex.def)             Requested size: 199.16928pt x 122.73213pt.
+ [19 <./images/tbl2-1.jpg> <./images/Fig2-1.jpg>]
+<images/Fig2-3.jpg, id=249, 433.98135pt x 269.20575pt>
 File: images/Fig2-3.jpg Graphic file (type jpg)
  <use images/Fig2-3.jpg>
-Package pdftex.def Info: images/Fig2-3.jpg used on input line 961.
+Package pdftex.def Info: images/Fig2-3.jpg used on input line 920.
 (pdftex.def)             Requested size: 199.16928pt x 123.5486pt.
 
-<images/Fig2-4.jpg, id=264, 424.58624pt x 261.97874pt>
+<images/Fig2-4.jpg, id=250, 424.58624pt x 261.97874pt>
 File: images/Fig2-4.jpg Graphic file (type jpg)
  <use images/Fig2-4.jpg>
-Package pdftex.def Info: images/Fig2-4.jpg used on input line 974.
+Package pdftex.def Info: images/Fig2-4.jpg used on input line 933.
 (pdftex.def)             Requested size: 199.16928pt x 122.89017pt.
 
-<images/Fig2-6.jpg, id=265, 424.58624pt x 285.10515pt>
+[20 <./images/Fig2-5.jpg> <./images/Fig2-2.jpg> <./images/Fig2-3.jpg>]
+<images/Fig2-6.jpg, id=260, 424.58624pt x 285.10515pt>
 File: images/Fig2-6.jpg Graphic file (type jpg)
  <use images/Fig2-6.jpg>
-Package pdftex.def Info: images/Fig2-6.jpg used on input line 987.
+Package pdftex.def Info: images/Fig2-6.jpg used on input line 946.
 (pdftex.def)             Requested size: 199.16928pt x 133.7384pt.
 
-[22 <./images/Fig2-3.jpg> <./images/Fig2-4.jpg>] [23 <./images/Fig2-6.jpg>]
-<images/Fig3-3.jpg, id=288, 433.98135pt x 543.83176pt>
+[21 <./images/Fig2-4.jpg> <./images/Fig2-6.jpg>]
+<images/Fig3-3.jpg, id=271, 433.98135pt x 543.83176pt>
 File: images/Fig3-3.jpg Graphic file (type jpg)
  <use images/Fig3-3.jpg>
-Package pdftex.def Info: images/Fig3-3.jpg used on input line 1055.
+Package pdftex.def Info: images/Fig3-3.jpg used on input line 1014.
 (pdftex.def)             Requested size: 142.26378pt x 178.27838pt.
 
-<images/Fig3-4.jpg, id=289, 424.58624pt x 222.95296pt>
+<images/Fig3-4.jpg, id=272, 424.58624pt x 222.95296pt>
 File: images/Fig3-4.jpg Graphic file (type jpg)
  <use images/Fig3-4.jpg>
-Package pdftex.def Info: images/Fig3-4.jpg used on input line 1082.
+Package pdftex.def Info: images/Fig3-4.jpg used on input line 1041.
 (pdftex.def)             Requested size: 227.62204pt x 119.52528pt.
 
-[24 <./images/Fig3-3.jpg>]
-<images/FigA1-4.jpg, id=305, 403.9893pt x 217.17136pt>
+[22] [23 <./images/Fig3-3.jpg> <./images/Fig3-4.jpg>]
+<images/FigA1-4.jpg, id=295, 403.9893pt x 217.17136pt>
 File: images/FigA1-4.jpg Graphic file (type jpg)
 
 <use images/FigA1-4.jpg>
-Package pdftex.def Info: images/FigA1-4.jpg used on input line 1094.
+Package pdftex.def Info: images/FigA1-4.jpg used on input line 1053.
 (pdftex.def)             Requested size: 227.62204pt x 122.36072pt.
 
-<images/FigA1-5.jpg, id=306, 405.79605pt x 173.08665pt>
+<images/FigA1-5.jpg, id=296, 405.79605pt x 173.08665pt>
 File: images/FigA1-5.jpg Graphic file (type jpg)
 
 <use images/FigA1-5.jpg>
-Package pdftex.def Info: images/FigA1-5.jpg used on input line 1118.
+Package pdftex.def Info: images/FigA1-5.jpg used on input line 1077.
 (pdftex.def)             Requested size: 170.71652pt x 72.81737pt.
 
-<images/FigA1-6.jpg, id=307, 407.24146pt x 159.35535pt>
+<images/FigA1-6.jpg, id=297, 407.24146pt x 159.35535pt>
 File: images/FigA1-6.jpg Graphic file (type jpg)
 
 <use images/FigA1-6.jpg>
-Package pdftex.def Info: images/FigA1-6.jpg used on input line 1135.
+Package pdftex.def Info: images/FigA1-6.jpg used on input line 1094.
 (pdftex.def)             Requested size: 170.71652pt x 66.80234pt.
- [25 <./images/Fig3-4.jpg> <./images/FigA1-4.jpg>]
-<images/FigA1-7.jpg, id=321, 403.62794pt x 532.99126pt>
+ [24 <./images/FigA1-4.jpg> <./images/FigA1-5.jpg>]
+<images/FigA1-7.jpg, id=310, 403.62794pt x 532.99126pt>
 File: images/FigA1-7.jpg Graphic file (type jpg)
 
 <use images/FigA1-7.jpg>
-Package pdftex.def Info: images/FigA1-7.jpg used on input line 1148.
+Package pdftex.def Info: images/FigA1-7.jpg used on input line 1107.
 (pdftex.def)             Requested size: 142.26378pt x 187.85912pt.
-
+ [25 <./images/FigA1-6.jpg> <./images/FigA1-7.jpg>]
 <images/FigA1-11.jpg, id=322, 405.79605pt x 157.18726pt>
 File: images/FigA1-11.jpg Graphic file (type jpg)
 
 <use images/FigA1-11.jpg>
-Package pdftex.def Info: images/FigA1-11.jpg used on input line 1179.
+Package pdftex.def Info: images/FigA1-11.jpg used on input line 1138.
 (pdftex.def)             Requested size: 227.62204pt x 88.17296pt.
 
 <images/FigA1-12.jpg, id=323, 403.62794pt x 186.81795pt>
 File: images/FigA1-12.jpg Graphic file (type jpg)
 
 <use images/FigA1-12.jpg>
-Package pdftex.def Info: images/FigA1-12.jpg used on input line 1191.
+Package pdftex.def Info: images/FigA1-12.jpg used on input line 1150.
 (pdftex.def)             Requested size: 227.62204pt x 105.35278pt.
 
 <images/FigA1-15.jpg, id=324, 405.79605pt x 212.11246pt>
 File: images/FigA1-15.jpg Graphic file (type jpg)
 
 <use images/FigA1-15.jpg>
-Package pdftex.def Info: images/FigA1-15.jpg used on input line 1203.
+Package pdftex.def Info: images/FigA1-15.jpg used on input line 1162.
 (pdftex.def)             Requested size: 227.62204pt x 118.98282pt.
- [26 <./images/FigA1-5.jpg> <./images/FigA1-6.jpg>]
-[27 <./images/FigA1-7.jpg> <./images/FigA1-11.jpg> <./images/FigA1-12.jpg> <./i
-mages/FigA1-15.jpg>] <images/FigA1-21.jpg, id=343, 405.07335pt x 217.17136pt>
+
+<images/FigA1-21.jpg, id=325, 405.07335pt x 217.17136pt>
 File: images/FigA1-21.jpg Graphic file (type jpg)
 
 <use images/FigA1-21.jpg>
-Package pdftex.def Info: images/FigA1-21.jpg used on input line 1215.
+Package pdftex.def Info: images/FigA1-21.jpg used on input line 1174.
 (pdftex.def)             Requested size: 227.62204pt x 122.03596pt.
 
-<images/FigA1-26.jpg, id=344, 403.62794pt x 326.29906pt>
+<images/FigA1-26.jpg, id=326, 403.62794pt x 326.29906pt>
 File: images/FigA1-26.jpg Graphic file (type jpg)
 
 <use images/FigA1-26.jpg>
-Package pdftex.def Info: images/FigA1-26.jpg used on input line 1227.
+Package pdftex.def Info: images/FigA1-26.jpg used on input line 1186.
 (pdftex.def)             Requested size: 227.62204pt x 184.01077pt.
 
-<images/FigA1-27.jpg, id=345, 405.07335pt x 170.91855pt>
+<images/FigA1-27.jpg, id=327, 405.07335pt x 170.91855pt>
 File: images/FigA1-27.jpg Graphic file (type jpg)
 
 <use images/FigA1-27.jpg>
-Package pdftex.def Info: images/FigA1-27.jpg used on input line 1239.
+Package pdftex.def Info: images/FigA1-27.jpg used on input line 1198.
 (pdftex.def)             Requested size: 227.62204pt x 96.04494pt.
-
-<images/FigA1-32.jpg, id=346, 403.9893pt x 396.40096pt>
+ [26 <./images/FigA1-11.jpg> <./images/FigA1-12.jpg> <./images/FigA1-15.jpg>] [
+27 <./images/FigA1-21.jpg> <./images/FigA1-26.jpg> <./images/FigA1-27.jpg>] <im
+ages/FigA1-32.jpg, id=346, 403.9893pt x 396.40096pt>
 File: images/FigA1-32.jpg Graphic file (type jpg)
 
 <use images/FigA1-32.jpg>
-Package pdftex.def Info: images/FigA1-32.jpg used on input line 1251.
+Package pdftex.def Info: images/FigA1-32.jpg used on input line 1210.
 (pdftex.def)             Requested size: 170.71652pt x 167.50948pt.
- [28 <./images/FigA1-21.jpg> <./images/FigA1-26.jpg>]
-<images/FigA1-41.jpg, id=361, 401.0985pt x 416.2752pt>
+
+<images/FigA1-41.jpg, id=347, 401.0985pt x 416.2752pt>
 File: images/FigA1-41.jpg Graphic file (type jpg)
 
 <use images/FigA1-41.jpg>
-Package pdftex.def Info: images/FigA1-41.jpg used on input line 1277.
+Package pdftex.def Info: images/FigA1-41.jpg used on input line 1236.
 (pdftex.def)             Requested size: 170.71652pt x 177.17186pt.
- [29 <./images/FigA1-27.jpg> <./images/FigA1-32.jpg>]
-<images/FigA1-53.jpg, id=370, 405.4347pt x 212.83514pt>
+ [28 <./images/FigA1-32.jpg>]
+<images/FigA1-53.jpg, id=360, 405.4347pt x 212.83514pt>
 File: images/FigA1-53.jpg Graphic file (type jpg)
 
 <use images/FigA1-53.jpg>
-Package pdftex.def Info: images/FigA1-53.jpg used on input line 1306.
+Package pdftex.def Info: images/FigA1-53.jpg used on input line 1265.
 (pdftex.def)             Requested size: 227.62204pt x 119.49213pt.
- [30 <./images/FigA1-41.jpg> <./images/FigA1-53.jpg>]
-<images/Fig3-2.jpg, id=379, 425.6703pt x 261.6174pt>
+ [29 <./images/FigA1-41.jpg> <./images/FigA1-53.jpg>]
+<images/Fig3-2.jpg, id=369, 425.6703pt x 261.6174pt>
 File: images/Fig3-2.jpg Graphic file (type jpg)
  <use images/Fig3-2.jpg>
-Package pdftex.def Info: images/Fig3-2.jpg used on input line 1329.
+Package pdftex.def Info: images/Fig3-2.jpg used on input line 1288.
 (pdftex.def)             Requested size: 256.0748pt x 157.3868pt.
 
-[31 <./images/Fig3-2.jpg>]
-<images/Fig2-10.jpg, id=391, 426.75435pt x 191.87685pt>
+[30 <./images/Fig3-2.jpg>]
+<images/Fig2-10.jpg, id=380, 426.75435pt x 191.87685pt>
 File: images/Fig2-10.jpg Graphic file (type jpg)
 
 <use images/Fig2-10.jpg>
-Package pdftex.def Info: images/Fig2-10.jpg used on input line 1372.
+Package pdftex.def Info: images/Fig2-10.jpg used on input line 1331.
 (pdftex.def)             Requested size: 284.52756pt x 127.92734pt.
 
-<images/Fig2-11.jpg, id=392, 427.47705pt x 144.90135pt>
+<images/Fig2-11.jpg, id=381, 427.47705pt x 144.90135pt>
 File: images/Fig2-11.jpg Graphic file (type jpg)
 
 <use images/Fig2-11.jpg>
-Package pdftex.def Info: images/Fig2-11.jpg used on input line 1384.
+Package pdftex.def Info: images/Fig2-11.jpg used on input line 1343.
 (pdftex.def)             Requested size: 284.52756pt x 96.44661pt.
 
-<images/Fig2-12.jpg, id=393, 428.19975pt x 212.83514pt>
+<images/Fig2-12.jpg, id=382, 428.19975pt x 212.83514pt>
 File: images/Fig2-12.jpg Graphic file (type jpg)
 
 <use images/Fig2-12.jpg>
-Package pdftex.def Info: images/Fig2-12.jpg used on input line 1396.
+Package pdftex.def Info: images/Fig2-12.jpg used on input line 1355.
 (pdftex.def)             Requested size: 284.52756pt x 141.4264pt.
 
-<images/tbl3-1.jpg, id=394, 415.19115pt x 620.43794pt>
+<images/tbl3-1.jpg, id=383, 415.19115pt x 620.43794pt>
 File: images/tbl3-1.jpg Graphic file (type jpg)
  <use images/tbl3-1.jpg>
-Package pdftex.def Info: images/tbl3-1.jpg used on input line 1418.
+Package pdftex.def Info: images/tbl3-1.jpg used on input line 1377.
 (pdftex.def)             Requested size: 113.81102pt x 170.06712pt.
 
-[32 <./images/Fig2-10.jpg> <./images/Fig2-11.jpg>]
-<images/tbl3-1a.jpg, id=408, 415.19115pt x 342.19846pt>
+[31 <./images/Fig2-10.jpg> <./images/Fig2-11.jpg>]
+<images/tbl3-1a.jpg, id=398, 415.19115pt x 342.19846pt>
 File: images/tbl3-1a.jpg Graphic file (type jpg)
 
 <use images/tbl3-1a.jpg>
-Package pdftex.def Info: images/tbl3-1a.jpg used on input line 1433.
+Package pdftex.def Info: images/tbl3-1a.jpg used on input line 1392.
 (pdftex.def)             Requested size: 199.16928pt x 164.15417pt.
 
-<images/tbl3-1b.jpg, id=409, 415.19115pt x 369.66106pt>
+<images/tbl3-1b.jpg, id=399, 415.19115pt x 369.66106pt>
 File: images/tbl3-1b.jpg Graphic file (type jpg)
 
 <use images/tbl3-1b.jpg>
-Package pdftex.def Info: images/tbl3-1b.jpg used on input line 1445.
+Package pdftex.def Info: images/tbl3-1b.jpg used on input line 1404.
 (pdftex.def)             Requested size: 199.16928pt x 177.32811pt.
- [33 <./images/Fig2-12.jpg> <./images/tbl3-1.jpg>]
-[34 <./images/tbl3-1a.jpg> <./images/tbl3-1b.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1451.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1451.
+ [32 <./images/Fig2-12.jpg> <./images/tbl3-1.jpg>]
+[33 <./images/tbl3-1a.jpg> <./images/tbl3-1b.jpg>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1410.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1410.
  (Intro.Article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1451.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1451.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1410.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1410.
 
 Package rerunfilecheck Info: File `Intro.Article.out' has not changed.
 (rerunfilecheck)             Checksum: 56FE3A02939927266FF8088A0DB53C07;278.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) ) 
 Here is how much of TeX's memory you used:
- 30167 strings out of 493323
- 711868 string characters out of 3139067
- 888052 words of memory out of 3000000
- 32799 multiletter control sequences out of 15000+200000
+ 30153 strings out of 493323
+ 711690 string characters out of 3139067
+ 888048 words of memory out of 3000000
+ 32790 multiletter control sequences out of 15000+200000
  26321 words of font info for 77 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,6n,96p,797b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1393,9 +1384,9 @@ gram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplri8a.pfb>
-Output written on Intro.Article.pdf (34 pages, 7012882 bytes).
+Output written on Intro.Article.pdf (33 pages, 7010497 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 243 named destinations out of 1000 (max. 500000)
+ 494 PDF objects out of 1000 (max. 8388607)
+ 238 named destinations out of 1000 (max. 500000)
  228 words of extra memory for PDF output out of 10000 (max. 10000000)
 

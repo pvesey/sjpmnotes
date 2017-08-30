@@ -1,5 +1,5 @@
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}
 \contentsline {section}{\numberline {2}Project Life Cycle}{8}{section.2}
-\contentsline {section}{\numberline {3}Project Stakeholders}{13}{section.3}
+\contentsline {section}{\numberline {3}Project Stakeholders}{12}{section.3}
 \contentsline {section}{\numberline {4}Project Organization}{17}{section.4}
-\contentsline {section}{\numberline {5}Project Management Processes}{22}{section.5}
+\contentsline {section}{\numberline {5}Project Management Processes}{21}{section.5}
