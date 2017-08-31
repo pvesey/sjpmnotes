@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Project Quality Management}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Introduction}{2}{0}{1}
-\beamer@subsectionintoc {1}{2}{Plan Quality}{9}{0}{1}
-\beamer@subsectionintoc {1}{3}{Control Quality}{40}{0}{1}
