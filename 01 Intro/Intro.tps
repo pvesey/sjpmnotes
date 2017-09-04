@@ -12,13 +12,13 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1050
-NormalPos.bottom=500
+NormalPos.bottom=443
 Class=LaTeXView
 Document=Intro.tex
 
 [Frame0_View0,0]
-TopLine=63
-Cursor=514
+TopLine=743
+Cursor=20763
 
 [Frame1]
 Flags=0
@@ -30,7 +30,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1050
-NormalPos.bottom=500
+NormalPos.bottom=443
 Class=LaTeXView
 Document=Intro.Beamer.tex
 
@@ -48,7 +48,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1050
-NormalPos.bottom=500
+NormalPos.bottom=443
 Class=LaTeXView
 Document=Intro.Article.tex
 
@@ -66,7 +66,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1050
-NormalPos.bottom=500
+NormalPos.bottom=443
 Class=LaTeXView
 Document=..\headmaterial.tex
 
@@ -84,7 +84,7 @@ MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
 NormalPos.right=1050
-NormalPos.bottom=500
+NormalPos.bottom=443
 Class=LaTeXView
 Document=..\titlepage.tex
 
